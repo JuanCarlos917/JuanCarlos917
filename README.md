@@ -12,7 +12,7 @@ Soy Juan Carlos Gómez Dev. Full-stack
 
 
 ### About Me  
-Desarrollador Full-stack, con dominio en tecnologías como Javascript, HTML, CSS, React, Redux, Next.js, Express, Node.js, Git, GitHub, y bases de datos MySQL y Postgres.
+Desarrollador Full-stack, con dominio en tecnologías como Javascript, HTML, CSS, Tailwind.css, React, Redux, Next.js, Express, Node.js, Git, GitHub, y bases de datos MySQL y Postgres.
 
 He hecho uso de bibliotecas de vanguardia y he aplicado metodologías ágiles como SCRUM. Esta combinación de competencias me permite proporcionar soluciones innovadoras y eficaces a través de todo el espectro del desarrollo web, garantizando la entrega de proyectos que cumplen con los requerimientos técnicos y de negocio.
 
