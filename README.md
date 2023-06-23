@@ -27,7 +27,7 @@ Me destaco por ser un líder confiable, con la capacidad de gestionar proyectos 
 ### Adonde me dirijo ? 🚀  
 Mi objetivo es utilizar mis habilidades en el desarrollo full stack para simplificar la vida de las personas a través de soluciones tecnológicas innovadoras. Quiero construir aplicaciones y sitios web que aborden necesidades y desafíos comunes, ya sea facilitando la gestión de tareas, mejorando la productividad en el lugar de trabajo o creando soluciones personalizadas para diferentes industrias.
 
-Al combinar el diseño intuitivo con la funcionalidad robusta, puedo ofrecer a los usuarios una experiencia fluida y eficiente. Mi enfoque está en resolver problemas de manera integral, brindando soluciones completas que abarquen tanto el aspecto visual como la lógica subyacente.  
+Al combinar el diseño intuitivo con la funcionalidad robusta, puedo ofrecer a los usuarios una experiencia fluida y eficiente. Mi enfoque está en resolver problemas de manera integral, brindando soluciones completas que abarquen tanto el aspecto visual como la lógica solida.  
   
 
 ![](undefined)  
@@ -91,7 +91,10 @@ Al combinar el diseño intuitivo con la funcionalidad robusta, puedo ofrecer a l
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juancarlos-gm/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  <p>juancarlos.gm931@gmail.com</p>
+  <div>
+    <p>juancarlos.gm931@gmail.com</p>
+  </div>
+  
 </div>  
   
 
