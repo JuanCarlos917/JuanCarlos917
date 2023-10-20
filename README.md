@@ -12,14 +12,9 @@ Soy Juan Carlos Gómez Dev. Full-stack
 
 
 ### Acerca de mí 
-Soy Desarrollador Full-stack, con dominio en tecnologías como Javascript, HTML, CSS, Tailwind.css, React, Redux, Next.js, Express, Node.js, Git, GitHub, y bases de datos MySQL y Postgres.
+Soy desarrollador Full-stack con una sólida trayectoria en desarrollo web, abarcando desde la creación de interfaces frontend, desarrollo backend, hasta la gestión de bases de datos y despliegue en la nube con AWS. Poseo habilidades en gestión de bases de datos, incluido el diseño de esquemas y la realización de migraciones utilizando Sequelize. He contribuido activamente en varios proyectos, en los cuales hemos adoptado metodologías ágiles como SCRUM, facilitando así una ejecución eficiente y el logro exitoso de los objetivos propuestos.
 
-He hecho uso de bibliotecas de vanguardia y he aplicado metodologías ágiles como SCRUM. Esta combinación de competencias me permite proporcionar soluciones innovadoras y eficaces a través de todo el espectro del desarrollo web, garantizando la entrega de proyectos que cumplen con los requerimientos técnicos y de negocio.
-
-Además, soy especialista en Administración de Empresas, con experiencia en finanzas y liderazgo de equipos. Mis habilidades administrativas se han enfocado en la calidad, la eficiencia y el logro de objetivos.
-Soy un profesional comprometido y altamente capacitado, siempre buscando cómo aportar mis habilidades y experiencia para beneficio de la organización.
-
-Me destaco por ser un líder confiable, con la capacidad de gestionar proyectos y equipos de manera efectiva para cumplir y superar las expectativas.
+Además, poseo un título en Administración de Empresas con un enfoque en finanzas y liderazgo de equipos. Mis habilidades administrativas han guiado equipos hacia la calidad y eficiencia, siempre con el objetivo de cumplir y superar las expectativas. Me destaco por ser un líder confiable, capaz de gestionar proyectos y equipos de manera efectiva.
   
 
 
