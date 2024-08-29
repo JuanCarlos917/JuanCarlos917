@@ -1,6 +1,6 @@
 
 ### ¡Hola Dev! Me alegro de que me hayas visitado. 
-Soy Juan Carlos Gómez Dev. Full-stack  
+Soy Juan Carlos Gómez
 <div align="center">
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" align="center" height="" width="600" />
 </div>  
